@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    margin-bottom: 1rem;
+}
+
+label, input {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.error-message {
+    color: red;
+    margin-bottom: 0.5rem;
+}
